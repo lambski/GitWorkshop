@@ -9,4 +9,10 @@ To complete this assignment, edit this README by doing the following,
 Once your are done, save this file.
 
 Test
-sslkadfj;adfjalkdfjaskdjfasdlkfjaslkdfjasdfj;alksd
+
+Morgan Lamb
+
+-I've played volleyball for 8 years
+-I work at Justice in the mall
+
+To learn the basics of computer science to help me in future classes
